@@ -1,0 +1,10 @@
+title: 개인정보 처리방침
+description: Sand Drop Puzzle
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
+github:
+  # [확인 필요] GitHub Pages에 배포 후 PDF 경로를 맞춰 주세요.
+  pdf_url: /SandDropPuzzle-Privacy-Policy/assets/downloads/privacy_policy_SandDropPuzzle.pdf
+plugins:
+  - jekyll-seo-tag
